@@ -1,4 +1,4 @@
 {
     "use": ["test"],
-    "respond":"hello there! {{ test }}"
+    "respond":"hello there! {{ memory[test] }}"
 }
