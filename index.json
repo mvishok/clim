@@ -1,3 +1,4 @@
 {
-    "respond":"hello there!"
+    "use": ["test"]
+    "respond":"hello there! {{test}}"
 }
